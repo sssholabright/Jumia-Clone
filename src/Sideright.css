@@ -1,0 +1,34 @@
+.sideright {
+    margin-right: 60px;
+    margin-top: 10px;
+    padding-bottom: 200px;
+    background-color: white;
+    height: 0px;
+    width: 190px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.side_ads {
+    display: flex;
+    box-sizing: border-box;
+    height: 60px;
+    margin-top: 0px;
+    margin: 10px;
+    cursor: pointer;
+
+}
+
+.side_ads > img {
+    height: 30px;
+    display: flex;
+    margin-right: 10px;
+}
+
+.side_ads > p {
+    font-size: 12px;
+    margin-top: 0px;
+}

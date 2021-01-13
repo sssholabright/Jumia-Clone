@@ -1,0 +1,19 @@
+.ads {
+    flex: 1;
+    padding: 10px 0px;
+    display: flex;
+    margin-left: 16px;
+    margin-right: 16px;
+    width: 712px;
+    height: 0px;
+}
+
+.ads_img > img {
+    width: 750px;
+    cursor: pointer;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}

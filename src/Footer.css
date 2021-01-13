@@ -1,0 +1,177 @@
+.footer {
+    background-color: #323232;
+    font-family:  Roboto, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.footer_top {
+    background-color: #212121;
+    display: flex;
+    padding-top: 0px;
+}
+.footer_app {
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 100px;
+    color: white;
+    font-family:  Roboto, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.footer_app > h3 {
+    margin-left: 1px;
+    font-size: smaller;
+    margin-bottom: 8px;
+}
+.footer_app > p {
+    font-size: 10px;
+    margin-left: 1px;
+    margin-bottom: 8px;
+}
+.footer_app > button > .MuiSvgIcon-root {
+    font-size: 17px;
+    margin-left: -10px;
+    margin-right: 5px;
+}
+.footer_app > button > p {
+    font-size: 12px;
+}
+.footer_app > button {
+    height: 40px;
+    width: 30%;
+    margin: 5px 5px;
+    font-size: 10px;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid;
+    color: white;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.footer_app > button:hover {
+    color: orange;
+    cursor: pointer;
+}
+.footer_newsfeed {
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 100px;
+    color: white;
+    font-family:  Roboto, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.footer_newsfeed > h3 {
+    margin-left: 1px;
+    font-size: smaller;
+    margin-bottom: 8px;
+}
+
+.footer_newsfeed > p {
+    font-size: 10px;
+    margin-left: 1px;
+    margin-bottom: 8px;
+}
+
+.footer_newsfeed > input {
+    height: 35px;
+    width: 50%;
+    border: 1px solid;
+    margin-left: 1px;
+    outline: none;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.footer_newsfeed > input:hover {
+    border-color: orange;
+}
+
+.footer_newsfeed > button {
+    height: 35px;
+    width: 13%;
+    margin: 5px 5px;
+    font-size: 10px;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid;
+    color: white;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.footer_newsfeed > button:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+
+.footer_middle {
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.footer_middle > #middle {
+    display: block;
+    margin-left: 100px;
+}
+
+.footer_middle > #middle > h3 {
+    margin-left: 0px;
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.footer_middle > #middle > p {
+    font-size: 12px;
+    color: rgb(172, 172, 172);
+    margin-bottom: 5px;
+
+
+}
+.footer_middle > #middle > p:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footer_end {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.footer_end > #middle {
+    display: block;
+    margin-left: 100px;
+}
+.footer_end > #middle > h3 {
+    margin-left: 0px;
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.footer_end > .midOne > .icons > .MuiSvgIcon-root{
+    color: white;
+    margin: 5px;
+}
+
+.footer_end > .midOne > .icons > .MuiSvgIcon-root:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+

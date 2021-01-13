@@ -1,0 +1,59 @@
+.salesSection {
+    border-radius: 4px;
+    display: flex;
+    margin-bottom: 0px;
+    height: 60vh;
+    background-color: white;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.sectionOne > img {
+    margin-top: 9px;
+    width: 228px;
+}
+
+
+.sectionTwo > img, .sectionThree > img, .sectionFour > img, .sectionFive > img {
+    margin-top: 40px;
+    width: 228px;
+    background-color: red;
+}
+
+h3 {
+    margin-left: 20px;
+    padding-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+#img:hover {
+    box-shadow: 2px 6px 8px 2px  rgb(214, 214, 219);
+    width: 235px;
+    cursor: pointer;
+}
+
+#img > h3 {
+    font-size: small;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+#img > p {
+    margin-left: 10px;
+    font-size: small;
+}
+#img > h4 {
+    font-size: smaller;
+    margin-left: 10px;
+    color: gray;
+}
+

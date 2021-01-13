@@ -1,0 +1,38 @@
+.top {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.top_left {
+    display: flex;
+    color: orange;
+    font-size: 12px;
+    margin-left: 100px;
+}
+.top_left > p > a {
+    color: orange;
+}
+    
+.top_middle{
+    display: flex;
+    padding-left: 100px;
+    margin-left: 1px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.top_middle:hover {
+    color: orange;
+}
+
+.top_middle > .MuiSvgIcon-root {
+    font-size: 15px;
+}
+
+.top_middle > img {
+    background-color: gray;
+    color: gray ;
+    height: 10px;
+    cursor: pointer;
+}

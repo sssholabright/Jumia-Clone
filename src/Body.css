@@ -1,0 +1,54 @@
+.body {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bodyOne {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.bodyTwo {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bodyThree {
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.bodyFour {
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.bodyFive {
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.bodySix {
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.bodySeven {
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+
+

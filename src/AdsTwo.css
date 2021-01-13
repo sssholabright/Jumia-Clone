@@ -1,0 +1,32 @@
+.ads_two {
+    display: flex;
+    background-color: white;
+    width: 1190px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.first > img, .second > img  {
+    margin-top: 10px;
+    width: 580px;
+}
+
+#first {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+#first:hover {
+    box-shadow: 2px 6px 8px 2px  rgb(176, 176, 179);
+    width: 595px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.low_image > img {
+    width: 190px;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 180px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
